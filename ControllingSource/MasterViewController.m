@@ -18,7 +18,7 @@
 
 - (void)dealloc
 {
-    
+    NSLog(@"释放了");
 }
 
 - (void)awakeFromNib
