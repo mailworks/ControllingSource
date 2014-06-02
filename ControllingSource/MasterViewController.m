@@ -16,6 +16,11 @@
 
 @implementation MasterViewController
 
+- (void)dealloc
+{
+    
+}
+
 - (void)awakeFromNib
 {
     [super awakeFromNib];
